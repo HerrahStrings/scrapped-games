@@ -1,4 +1,4 @@
-[<<-Back](/)
+[<<-Back](/folio)
 
 Currently provides the initial, as-is built releases. No attempts to rebuild from source or improve in any way. Some games might have incomprehensible jokes.
 All included projects are compiled for windows 64-bit.
